@@ -1,0 +1,86 @@
+/*ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    overflow: hidden;
+    background-color: coral;
+}
+li{
+    float: left;
+}
+li a{
+    padding: 15px;
+    color: darkred;
+    font-family: Ramaraja;
+    font-size: 30px;
+    text-decoration: none;
+    display: block;
+}
+li a:hover {
+    background-color: dimgray;
+}
+
+li{
+    float: left;
+     list-style-type: none;
+}
+
+li a{
+    padding: 10px;
+    text-decoration: none;
+
+    color: dimgray;
+}
+
+li a:hover{
+    color: black;
+}
+
+.fruits{
+    border: 2px solid red;
+    text-align: center;
+    color: white;
+    background-color: red;
+    padding: 20px;
+    margin: 20px;
+}
+
+.FRUITS{
+    border: 2px solid black;
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 20px;
+    margin: 20px;
+}
+
+.cars{
+    border: 2px solid green;
+    text-align: center;
+    color: white;
+    background-color: green;
+    padding: 20px;
+    margin: 20px;
+}
+#school{
+    color: purple;
+    text-align: center;
+    border: 2px solid darkorange;
+    background-color: darkorange;
+}*/
+
+h2{
+    color: purple;
+    font-family: Ramaraja;
+    text-align: center;
+    border: 2px solid red;
+    font-size: 40px;
+}
+label{
+    color: crimson;
+    font-family: Kalimati;
+
+}
+input{
+    color: blue;
+}
